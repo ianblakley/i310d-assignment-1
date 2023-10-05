@@ -2,6 +2,11 @@
 Project Goal:
   My goal of this project was to create visualizations of the countries with the most success at the Summer and Winter Olympics.
 
+License:
+  Copyright 2006 Wikipedia
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
 Source:
   All project data comes directly from this Wikipedia page: https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table
 
