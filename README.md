@@ -15,3 +15,6 @@ Data Type:
 
 Potential Bias:
   These charts are not a completely accurate reflection of each country's athletic ability. Different countries have different populations as well as different resources that allow for them to have a better or worse chance of success in the Olympics compared to other countries. This data is only meant to reflect the success of countries in the Olympics, not make any statements about each country's athletic abilities.
+
+Analysis:
+  The data here is a full spreadsheet of all medals won during the Olympic games (summer and winter) by every country. The visualizations are a representation of the 10 countries with the highest amount of gold medals and total medals won in the Summer and Winter Olympics, as well as a combined total of both Olympic games. Based on my background knowledge of Olympic success, I knew that the United States would likely have far and away the most total medals of any country. However, I was surprised to find out that Norway actually has the most medals in the Winter Olympics by a somewhat large margin. This was surprising because while it does make sense Norway would see success in winter sports considering the climate of their country, the country is still pretty small population-wise compared to other countries that have cold climates such as the United States, Canada, and Russia.
